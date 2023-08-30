@@ -5,13 +5,13 @@
   "coreVersion": "10.303",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.2.2",
+  "systemVersion": "2.3.0",
   "id": "coia",
   "compatibility": {
     "verified": "10.303",
     "minimum": "10"
   },
-  "description": "<p>Bienvenido a Coia, un mundo de fantasía creado mi (Pablo), donde una guerra de unas criaturas de origen desconocido, conocidas como eternos, asolan los diferentes y únicos territorios del mundo mientras que a su vez múltiples guerras se libran en Afon y Umend, los 2 continentes de Coia.</p><p></p><p>SESIÓN NÚMERO 33</p>",
+  "description": "<p>Bienvenido a Coia, un mundo de fantasía creado mi (Pablo), donde una guerra de unas criaturas de origen desconocido, conocidas como eternos, asolan los diferentes y únicos territorios del mundo mientras que a su vez múltiples guerras se libran en Afon y Umend, los 2 continentes de Coia.</p><p></p><p>SESIÓN NÚMERO 35</p>",
   "background": "https://i.ibb.co/kJzq7Nb/Landing-Page-Blank.png",
   "packs": [
     {
@@ -69,5 +69,5 @@
       "flags": {}
     }
   ],
-  "nextSession": "2023-08-16T15:30:00.000Z"
+  "nextSession": "2023-08-25T16:30:00.000Z"
 }
