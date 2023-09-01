@@ -2,14 +2,14 @@
   "title": "Coia",
   "version": "1.0.0",
   "system": "dnd5e",
-  "coreVersion": "10.303",
+  "coreVersion": "11.308",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "2.3.0",
+  "systemVersion": "2.3.1",
   "id": "coia",
   "compatibility": {
-    "verified": "10.303",
-    "minimum": "10"
+    "verified": "11.308",
+    "minimum": "11"
   },
   "description": "<p>Bienvenido a Coia, un mundo de fantasía creado mi (Pablo), donde una guerra de unas criaturas de origen desconocido, conocidas como eternos, asolan los diferentes y únicos territorios del mundo mientras que a su vez múltiples guerras se libran en Afon y Umend, los 2 continentes de Coia.</p><p></p><p>SESIÓN NÚMERO 35</p>",
   "background": "https://i.ibb.co/kJzq7Nb/Landing-Page-Blank.png",
@@ -18,56 +18,76 @@
       "label": "Monster Parts",
       "type": "Item",
       "name": "monster-parts",
-      "path": "packs/monster-parts.db",
+      "path": "packs/monster-parts",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Feats",
       "type": "Item",
       "name": "feats",
-      "path": "packs/feats.db",
+      "path": "packs/feats",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Mutágenos azules",
       "type": "Item",
       "name": "mutagenos-azules",
-      "path": "packs/mutagenos-azules.db",
+      "path": "packs/mutagenos-azules",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Mutágenos rojos",
       "type": "Item",
       "name": "mutagenos-rojos",
-      "path": "packs/mutagenos-rojos.db",
+      "path": "packs/mutagenos-rojos",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Mutágenos verdes",
       "type": "Item",
       "name": "mutagenos-verdes",
-      "path": "packs/mutagenos-verdes.db",
+      "path": "packs/mutagenos-verdes",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Pociones",
       "type": "Item",
       "name": "pociones",
-      "path": "packs/pociones.db",
+      "path": "packs/pociones",
       "system": "dnd5e",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
-  "nextSession": "2023-08-25T16:30:00.000Z"
+  "nextSession": "2023-08-25T16:30:00.000Z",
+  "lastPlayed": "Fri Sep 01 2023 06:19:16 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 11473
 }
