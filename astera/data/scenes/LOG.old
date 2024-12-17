@@ -1,0 +1,24 @@
+2024/12/11-19:06:44.993526 723484c00640 Recovering log #978
+2024/12/11-19:06:44.998997 723484c00640 Delete type=0 #978
+2024/12/11-19:06:44.999020 723484c00640 Delete type=3 #970
+2024/12/11-20:26:25.650962 72347d600640 Level-0 table #984: started
+2024/12/11-20:26:25.688521 72347d600640 Level-0 table #984: 1441723 bytes OK
+2024/12/11-20:26:25.692286 72347d600640 Delete type=0 #982
+2024/12/12-07:53:15.733334 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/12-07:53:15.924249 72347d600640 Generated table #985@1: 5517 keys, 2088463 bytes
+2024/12/12-07:53:15.924271 72347d600640 Compacted 1@1 + 1@2 files => 2088463 bytes
+2024/12/12-07:53:15.926832 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/12-07:53:15.926939 72347d600640 Delete type=2 #980
+2024/12/12-07:53:15.927383 72347d600640 Delete type=2 #984
+2024/12/12-07:59:22.330493 72347d600640 Level-0 table #987: started
+2024/12/12-07:59:22.346057 72347d600640 Level-0 table #987: 585905 bytes OK
+2024/12/12-07:59:22.348077 72347d600640 Delete type=0 #983
+2024/12/12-07:59:22.357178 72347d600640 Manual compaction at level-0 from '!scenes!0MeLFnp15agWl2j2' @ 72057594037927935 : 1 .. '!scenes.walls!yHnOAMcCCqHfTe4M.zwww8M5PGwBerXSr' @ 0 : 0; will stop at (end)
+2024/12/12-07:59:22.389893 72347d600640 Manual compaction at level-1 from '!scenes!0MeLFnp15agWl2j2' @ 72057594037927935 : 1 .. '!scenes.walls!yHnOAMcCCqHfTe4M.zwww8M5PGwBerXSr' @ 0 : 0; will stop at '!scenes.tokens.delta.items!hovPtFnvDFk8S2Mg.rBKHV1K0u5WQ2OE9.3K9hRKYRKQZUzOgY.vNycv5F0IyOALMAP' @ 127692 : 0
+2024/12/12-07:59:22.389899 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/12-07:59:22.440751 72347d600640 Generated table #988@1: 5497 keys, 1980001 bytes
+2024/12/12-07:59:22.440765 72347d600640 Compacted 1@1 + 1@2 files => 1980001 bytes
+2024/12/12-07:59:22.442487 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/12-07:59:22.442651 72347d600640 Delete type=2 #985
+2024/12/12-07:59:22.443082 72347d600640 Delete type=2 #987
+2024/12/12-07:59:22.467382 72347d600640 Manual compaction at level-1 from '!scenes.tokens.delta.items!hovPtFnvDFk8S2Mg.rBKHV1K0u5WQ2OE9.3K9hRKYRKQZUzOgY.vNycv5F0IyOALMAP' @ 127692 : 0 .. '!scenes.walls!yHnOAMcCCqHfTe4M.zwww8M5PGwBerXSr' @ 0 : 0; will stop at (end)
