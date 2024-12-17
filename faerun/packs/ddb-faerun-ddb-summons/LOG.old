@@ -1,0 +1,8 @@
+2024/11/21-21:00:04.420604 723485600640 Recovering log #110
+2024/11/21-21:00:04.425872 723485600640 Delete type=0 #110
+2024/11/21-21:00:04.425895 723485600640 Delete type=3 #108
+2024/11/22-17:26:37.790943 72347d600640 Level-0 table #115: started
+2024/11/22-17:26:37.791295 72347d600640 Level-0 table #115: 0 bytes OK
+2024/11/22-17:26:37.793542 72347d600640 Delete type=0 #113
+2024/11/22-17:26:37.793617 72347d600640 Manual compaction at level-0 from '!actors!ddbSumArcaHanBlu' @ 72057594037927935 : 1 .. '!folders!xiFhqOcy6T26U1Qx' @ 0 : 0; will stop at (end)
+2024/11/22-17:26:37.793644 72347d600640 Manual compaction at level-1 from '!actors!ddbSumArcaHanBlu' @ 72057594037927935 : 1 .. '!folders!xiFhqOcy6T26U1Qx' @ 0 : 0; will stop at (end)
