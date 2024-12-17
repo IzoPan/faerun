@@ -1,94 +1,14 @@
 {
-  "title": "Coia",
-  "version": "1.0.0",
+  "title": "Faerun",
+  "id": "faerun",
   "system": "dnd5e",
+  "joinTheme": "default",
   "coreVersion": "11.315",
-  "resetKeys": false,
-  "safeMode": false,
-  "systemVersion": "2.3.1",
-  "id": "coia",
   "compatibility": {
-    "verified": "11.315",
-    "minimum": "11"
+    "minimum": "11",
+    "verified": "11"
   },
-  "description": "<p>Bienvenido a Coia, un mundo de fantasía creado mi (Pablo), donde una guerra de unas criaturas de origen desconocido, conocidas como eternos, asolan los diferentes y únicos territorios del mundo mientras que a su vez múltiples guerras se libran en Afon y Umend, los 2 continentes de Coia.</p><p></p><p>SESIÓN NÚMERO 1 CAMPAÑA 2</p>",
-  "background": "https://i.ibb.co/jhq6Cy8/Pueblo-Random-Churkin.jpg",
-  "packs": [
-    {
-      "label": "Monster Parts",
-      "type": "Item",
-      "name": "monster-parts",
-      "path": "packs/monster-parts",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Feats",
-      "type": "Item",
-      "name": "feats",
-      "path": "packs/feats",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos azules",
-      "type": "Item",
-      "name": "mutagenos-azules",
-      "path": "packs/mutagenos-azules",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos rojos",
-      "type": "Item",
-      "name": "mutagenos-rojos",
-      "path": "packs/mutagenos-rojos",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Mutágenos verdes",
-      "type": "Item",
-      "name": "mutagenos-verdes",
-      "path": "packs/mutagenos-verdes",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "label": "Pociones",
-      "type": "Item",
-      "name": "pociones",
-      "path": "packs/pociones",
-      "system": "dnd5e",
-      "flags": {},
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ],
-  "nextSession": "2023-09-09T21:00:00.000Z",
-  "lastPlayed": "Wed Dec 13 2023 19:10:01 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 1043300,
-  "joinTheme": "minimal"
+  "systemVersion": "3.3.1",
+  "lastPlayed": "Tue Dec 17 2024 19:16:45 GMT+0100 (hora estándar de Europa central)",
+  "playtime": 56
 }

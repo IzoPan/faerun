@@ -1,3 +1,23 @@
-2023/12/13-18:32:13.828703 7fc0b07f8640 Recovering log #167
-2023/12/13-18:32:13.833537 7fc0b07f8640 Delete type=3 #165
-2023/12/13-18:32:13.833556 7fc0b07f8640 Delete type=0 #167
+2024/11/22-19:00:52.320546 723485600640 Recovering log #162
+2024/11/22-19:00:52.326634 723485600640 Delete type=3 #160
+2024/11/22-19:00:52.326668 723485600640 Delete type=0 #162
+2024/11/25-11:03:11.006157 72347d600640 Level-0 table #167: started
+2024/11/25-11:03:11.008939 72347d600640 Level-0 table #167: 5268 bytes OK
+2024/11/25-11:03:11.011247 72347d600640 Delete type=0 #165
+2024/11/25-11:03:11.011728 72347d600640 Manual compaction at level-0 from '!combats!OUWuXay9GRXChlER' @ 72057594037927935 : 1 .. '!combats!OUWuXay9GRXChlER' @ 0 : 0; will stop at '!combats.combatants!OUWuXay9GRXChlER.mtTklHIoFvrl3J9Y' @ 2040 : 1
+2024/11/25-11:03:11.011732 72347d600640 Compacting 2@0 + 1@1 files
+2024/11/25-11:03:11.015628 72347d600640 Generated table #168@0: 143 keys, 4115 bytes
+2024/11/25-11:03:11.015642 72347d600640 Compacted 2@0 + 1@1 files => 4115 bytes
+2024/11/25-11:03:11.017302 72347d600640 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/25-11:03:11.017364 72347d600640 Delete type=2 #135
+2024/11/25-11:03:11.017824 72347d600640 Delete type=2 #123
+2024/11/25-11:03:11.017880 72347d600640 Delete type=2 #167
+2024/11/25-11:03:11.151776 72347d600640 Manual compaction at level-0 from '!combats.combatants!OUWuXay9GRXChlER.mtTklHIoFvrl3J9Y' @ 2040 : 1 .. '!combats!OUWuXay9GRXChlER' @ 0 : 0; will stop at (end)
+2024/11/25-11:03:11.243134 72347d600640 Manual compaction at level-1 from '!combats!OUWuXay9GRXChlER' @ 72057594037927935 : 1 .. '!combats!OUWuXay9GRXChlER' @ 0 : 0; will stop at '!combats.combatants!tOewljHHFSEafwRB.zUJMUNsUkeifj4IG' @ 1232 : 0
+2024/11/25-11:03:11.243141 72347d600640 Compacting 1@1 + 1@2 files
+2024/11/25-11:03:11.245662 72347d600640 Generated table #169@1: 1 keys, 506 bytes
+2024/11/25-11:03:11.245674 72347d600640 Compacted 1@1 + 1@2 files => 506 bytes
+2024/11/25-11:03:11.248690 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/25-11:03:11.248733 72347d600640 Delete type=2 #168
+2024/11/25-11:03:11.248795 72347d600640 Delete type=2 #115
+2024/11/25-11:03:11.277550 72347d600640 Manual compaction at level-1 from '!combats.combatants!tOewljHHFSEafwRB.zUJMUNsUkeifj4IG' @ 1232 : 0 .. '!combats!OUWuXay9GRXChlER' @ 0 : 0; will stop at (end)
