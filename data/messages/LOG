@@ -1,8 +1,15 @@
-2024/12/17-19:15:45.319 1fa4 Recovering log #184
-2024/12/17-19:15:45.323 1fa4 Delete type=0 #184
-2024/12/17-19:15:45.323 1fa4 Delete type=3 #182
-2024/12/17-19:16:45.210 20ac Level-0 table #190: started
-2024/12/17-19:16:45.210 20ac Level-0 table #190: 0 bytes OK
-2024/12/17-19:16:45.212 20ac Delete type=0 #188
-2024/12/17-19:16:45.214 20ac Manual compaction at level-0 from '!messages!01yzrCEecY35zvz4' @ 72057594037927935 : 1 .. '!messages!zzYmTRarGAcBQYf7' @ 0 : 0; will stop at (end)
-2024/12/17-19:16:45.215 20ac Manual compaction at level-1 from '!messages!01yzrCEecY35zvz4' @ 72057594037927935 : 1 .. '!messages!zzYmTRarGAcBQYf7' @ 0 : 0; will stop at (end)
+2025/11/02-15:02:10.122393 727b82a00640 Recovering log #374
+2025/11/02-15:02:10.140799 727b82a00640 Delete type=3 #372
+2025/11/02-15:02:10.140835 727b82a00640 Delete type=0 #374
+2025/11/13-18:10:59.225091 727b7b600640 Level-0 table #382: started
+2025/11/13-18:10:59.228496 727b7b600640 Level-0 table #382: 1326 bytes OK
+2025/11/13-18:10:59.230757 727b7b600640 Delete type=0 #380
+2025/11/13-18:10:59.242566 727b7b600640 Manual compaction at level-0 from '!messages!00lRK6CHqDLisk78' @ 72057594037927935 : 1 .. '!messages!zzYmTRarGAcBQYf7' @ 0 : 0; will stop at (end)
+2025/11/13-18:10:59.242622 727b7b600640 Manual compaction at level-1 from '!messages!00lRK6CHqDLisk78' @ 72057594037927935 : 1 .. '!messages!zzYmTRarGAcBQYf7' @ 0 : 0; will stop at '!messages!hFuGxuxVJ2fVyHrc' @ 28181 : 1
+2025/11/13-18:10:59.242629 727b7b600640 Compacting 1@1 + 1@2 files
+2025/11/13-18:10:59.298278 727b7b600640 Generated table #383@1: 2220 keys, 2130071 bytes
+2025/11/13-18:10:59.298293 727b7b600640 Compacted 1@1 + 1@2 files => 2130071 bytes
+2025/11/13-18:10:59.299813 727b7b600640 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/11/13-18:10:59.299978 727b7b600640 Delete type=2 #377
+2025/11/13-18:10:59.300259 727b7b600640 Delete type=2 #382
+2025/11/13-18:10:59.353578 727b7b600640 Manual compaction at level-1 from '!messages!hFuGxuxVJ2fVyHrc' @ 28181 : 1 .. '!messages!zzYmTRarGAcBQYf7' @ 0 : 0; will stop at (end)

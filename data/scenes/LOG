@@ -1,8 +1,15 @@
-2024/12/17-19:15:45.497 3fec Recovering log #282
-2024/12/17-19:15:45.502 3fec Delete type=0 #282
-2024/12/17-19:15:45.502 3fec Delete type=3 #265
-2024/12/17-19:16:45.274 20ac Level-0 table #288: started
-2024/12/17-19:16:45.274 20ac Level-0 table #288: 0 bytes OK
-2024/12/17-19:16:45.276 20ac Delete type=0 #286
-2024/12/17-19:16:45.277 20ac Manual compaction at level-0 from '!scenes!4sZdEGsG6IxfZuS7' @ 72057594037927935 : 1 .. '!scenes.walls!pledaE1yelxgY7xB.zv0NnvNFyDE0B4bl' @ 0 : 0; will stop at (end)
-2024/12/17-19:16:45.292 20ac Manual compaction at level-1 from '!scenes!4sZdEGsG6IxfZuS7' @ 72057594037927935 : 1 .. '!scenes.walls!pledaE1yelxgY7xB.zv0NnvNFyDE0B4bl' @ 0 : 0; will stop at (end)
+2025/11/02-15:02:10.363018 727b82000640 Recovering log #580
+2025/11/02-15:02:10.367929 727b82000640 Delete type=0 #580
+2025/11/02-15:02:10.367952 727b82000640 Delete type=3 #578
+2025/11/13-18:10:59.365411 727b7b600640 Level-0 table #586: started
+2025/11/13-18:10:59.367865 727b7b600640 Level-0 table #586: 27492 bytes OK
+2025/11/13-18:10:59.369914 727b7b600640 Delete type=0 #584
+2025/11/13-18:10:59.376768 727b7b600640 Manual compaction at level-0 from '!scenes!4sZdEGsG6IxfZuS7' @ 72057594037927935 : 1 .. '!scenes.walls!pledaE1yelxgY7xB.zv0NnvNFyDE0B4bl' @ 0 : 0; will stop at (end)
+2025/11/13-18:10:59.376804 727b7b600640 Manual compaction at level-1 from '!scenes!4sZdEGsG6IxfZuS7' @ 72057594037927935 : 1 .. '!scenes.walls!pledaE1yelxgY7xB.zv0NnvNFyDE0B4bl' @ 0 : 0; will stop at '!scenes!c4vtJKKtHHkApGdW' @ 103594 : 1
+2025/11/13-18:10:59.376807 727b7b600640 Compacting 1@1 + 1@2 files
+2025/11/13-18:10:59.393177 727b7b600640 Generated table #587@1: 2417 keys, 530550 bytes
+2025/11/13-18:10:59.393187 727b7b600640 Compacted 1@1 + 1@2 files => 530550 bytes
+2025/11/13-18:10:59.394870 727b7b600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/13-18:10:59.394924 727b7b600640 Delete type=2 #582
+2025/11/13-18:10:59.395030 727b7b600640 Delete type=2 #586
+2025/11/13-18:10:59.422665 727b7b600640 Manual compaction at level-1 from '!scenes!c4vtJKKtHHkApGdW' @ 103594 : 1 .. '!scenes.walls!pledaE1yelxgY7xB.zv0NnvNFyDE0B4bl' @ 0 : 0; will stop at (end)

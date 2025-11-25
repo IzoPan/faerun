@@ -1,8 +1,17 @@
-2024/12/17-19:15:45.278 de8 Recovering log #201
-2024/12/17-19:15:45.284 de8 Delete type=0 #201
-2024/12/17-19:15:45.284 de8 Delete type=3 #196
-2024/12/17-19:16:45.207 20ac Level-0 table #207: started
-2024/12/17-19:16:45.208 20ac Level-0 table #207: 0 bytes OK
-2024/12/17-19:16:45.210 20ac Delete type=0 #205
-2024/12/17-19:16:45.214 20ac Manual compaction at level-0 from '!actors!04WLu8oH160T9R3I' @ 72057594037927935 : 1 .. '!actors.items.effects!rDMfqmPoaBA3mhjG.8dzaICjGy6mTUaUr.8rP3gwmXVTgZqYZE' @ 0 : 0; will stop at (end)
-2024/12/17-19:16:45.214 20ac Manual compaction at level-1 from '!actors!04WLu8oH160T9R3I' @ 72057594037927935 : 1 .. '!actors.items.effects!rDMfqmPoaBA3mhjG.8dzaICjGy6mTUaUr.8rP3gwmXVTgZqYZE' @ 0 : 0; will stop at (end)
+2025/11/02-15:02:10.026873 727b81600640 Recovering log #493
+2025/11/02-15:02:10.032222 727b81600640 Delete type=3 #491
+2025/11/02-15:02:10.032254 727b81600640 Delete type=0 #493
+2025/11/13-18:10:59.101265 727b7b600640 Level-0 table #499: started
+2025/11/13-18:10:59.133875 727b7b600640 Level-0 table #499: 1372682 bytes OK
+2025/11/13-18:10:59.135737 727b7b600640 Delete type=0 #497
+2025/11/13-18:10:59.136801 727b7b600640 Manual compaction at level-0 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!vlASJ6o22NoDP4lJ.o7NJwGfSVx3rbTWM.uMsGEsbEZ2hckOKW' @ 0 : 0; will stop at (end)
+2025/11/13-18:10:59.136985 727b7b600640 Manual compaction at level-1 from '!actors!0Ad0w9MO40C7UIAD' @ 72057594037927935 : 1 .. '!actors.items.effects!vlASJ6o22NoDP4lJ.o7NJwGfSVx3rbTWM.uMsGEsbEZ2hckOKW' @ 0 : 0; will stop at '!actors.items.effects!Sh6KezT55lOgGBRI.uvdZ8tc8AlciF4oB.HsbtDDdiWhk4d7WB' @ 67136 : 1
+2025/11/13-18:10:59.136994 727b7b600640 Compacting 1@1 + 2@2 files
+2025/11/13-18:10:59.196498 727b7b600640 Generated table #500@1: 1646 keys, 2127681 bytes
+2025/11/13-18:10:59.219715 727b7b600640 Generated table #501@1: 982 keys, 865976 bytes
+2025/11/13-18:10:59.219726 727b7b600640 Compacted 1@1 + 2@2 files => 2993657 bytes
+2025/11/13-18:10:59.222101 727b7b600640 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/11/13-18:10:59.222263 727b7b600640 Delete type=2 #495
+2025/11/13-18:10:59.223678 727b7b600640 Delete type=2 #490
+2025/11/13-18:10:59.224791 727b7b600640 Delete type=2 #499
+2025/11/13-18:10:59.242535 727b7b600640 Manual compaction at level-1 from '!actors.items.effects!Sh6KezT55lOgGBRI.uvdZ8tc8AlciF4oB.HsbtDDdiWhk4d7WB' @ 67136 : 1 .. '!actors.items.effects!vlASJ6o22NoDP4lJ.o7NJwGfSVx3rbTWM.uMsGEsbEZ2hckOKW' @ 0 : 0; will stop at (end)

@@ -3,12 +3,14 @@
   "id": "faerun",
   "system": "dnd5e",
   "joinTheme": "default",
-  "coreVersion": "11.315",
+  "coreVersion": "12.343",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12.343"
   },
-  "systemVersion": "3.3.1",
-  "lastPlayed": "Tue Dec 17 2024 19:16:45 GMT+0100 (hora estándar de Europa central)",
-  "playtime": 56
+  "systemVersion": "4.3.9",
+  "lastPlayed": "Thu Nov 13 2025 18:10:58 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 4164754,
+  "description": "<p>Los aventureros, frente al tenue resplandor de su fogata, descansan. Pero no eternamente. Pronto, el Amo del Calabozo se liberará de sus cadenas. Y así, los aventureros volverán a levantarse. Regresarán para combatir, un día más, a los temibles dragones.</p>",
+  "background": "https://i.ibb.co/FNPRLt6/a-split-image-of-two-dnd-dragons-in-battle-against-adventurers.jpg"
 }
